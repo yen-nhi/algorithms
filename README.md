@@ -1,5 +1,6 @@
 # Algorithmic challenges
 ## GeeksForGeeks
+* Tree
+  * Construct Tree from Preorder Traversal
 * Dynamic Programming
   * Minimum Operations
-  * Construct Tree from Preorder Traversal
