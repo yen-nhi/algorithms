@@ -12,5 +12,7 @@
 ## HackerEarth
 * Graph
   * Shortest Paths
-    * Bellman Ford
-      * Monk's Business Day 
+    * Bellman Ford's
+      * Monk's Business Day
+    * Dijkstra's
+      * Booze First
