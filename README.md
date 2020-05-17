@@ -8,3 +8,9 @@
   * Check for BST
 * Dynamic Programming
   * Minimum Operations
+
+## HackerEarth
+* Graph
+  * Shortest Paths
+    * Bellman Ford
+      * Monk's Business Day 
