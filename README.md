@@ -11,6 +11,8 @@
 
 ## HackerEarth
 * Graph
+  * Breadth First Search
+    * Monk and the Islands
   * Shortest Paths
     * Bellman Ford's
       * Monk's Business Day
