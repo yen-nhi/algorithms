@@ -13,6 +13,7 @@
 * Graph
   * Breadth First Search
     * Monk and the Islands
+    * The Flight Plan
   * Shortest Paths
     * Bellman Ford's
       * Monk's Business Day
