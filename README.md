@@ -11,6 +11,8 @@
 
 ## HackerEarth
 * Graph
+  * Depth First Search
+    * Prison Break
   * Breadth First Search
     * Monk and the Islands
     * The Flight Plan
