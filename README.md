@@ -15,6 +15,7 @@
     * Prison Break
     * Monk and Graph Problem
     * Kingdom Of Monkeys
+    * Little Monk and Edge Count
   * Breadth First Search
     * Monk and the Islands
     * The Flight Plan
