@@ -27,3 +27,6 @@
     * Dijkstra's
       * Booze First
       * The Parking Slot
+  * Spanning Tree
+    * Kruskal's
+      * 3 types
