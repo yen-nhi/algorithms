@@ -16,6 +16,7 @@
     * Monk and Graph Problem
     * Kingdom Of Monkeys
     * Little Monk and Edge Count
+    * Monk's birthday treat
   * Breadth First Search
     * Monk and the Islands
     * The Flight Plan
