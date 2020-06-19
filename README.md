@@ -17,6 +17,7 @@
     * Kingdom Of Monkeys
     * Little Monk and Edge Count
     * Monk's birthday treat
+    * Easylife
   * Breadth First Search
     * Monk and the Islands
     * The Flight Plan
