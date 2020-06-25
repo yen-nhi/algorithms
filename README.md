@@ -37,3 +37,5 @@
 * Graph
   * Flood Fill/Finding Connected Components
     * 352 - The Seasonal War
+  * Finding Strongly Connected Components
+    * 247 - Calling Circles
