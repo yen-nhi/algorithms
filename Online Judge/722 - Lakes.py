@@ -22,10 +22,10 @@ for t in range(int(input_[0])):
     grid = []
     line += 2
     while line < n and input_[line] != "\n":
-        if line == n -1:
-            input_[line] += 'n'
         grid.append(input_[line])
         line += 1
+    if t != 0:
+        print()
     print(dfs(grid, x, y))
-    print()
+    
     
