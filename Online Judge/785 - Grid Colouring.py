@@ -1,9 +1,14 @@
 
 def dfs(grid, x, y, mark, m):
+    stack = [(x, y)]
     grid[x][y] = mark
-    for (x1, y1) in ((x+1, y), (x-1, y), (x, y+1), (x, y-1)):
-        if 0 <= x1 < m and 0 <= y1 < len(grid[x1]) and grid[x1][y1] == ' ':
-            dfs(grid, x1, y1, mark, m)
+    while stack:
+        (x, y) = stack.pop()
+        for (x1, y1) in ((x+1, y), (x-1, y), (x, y+1), (x, y-1)):
+            if 0 <= x1 < m and 0 <= y1 < len(grid[x1]) and grid[x1][y1] == ' ':
+                stack.append((x1, y1))
+                grid[x1][y1] = mark
+
 
 def filling(grid, m):
     for row in range(len(grid)):
