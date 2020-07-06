@@ -40,5 +40,6 @@
     * 722 - Lakes
     * 785 - Grid Colouring
     * 657 - The die is cast
+    * 852 - Deciding victory in Go
   * Finding Strongly Connected Components
     * 247 - Calling Circles
