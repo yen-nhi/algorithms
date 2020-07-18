@@ -43,5 +43,6 @@
     * 852 - Deciding victory in Go
   * Finding Strongly Connected Components
     * 247 - Calling Circles
+    * 1229 - Sub-dictionary
   * Minimum Spanning Tree
     * 1174 - IP-TV
