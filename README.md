@@ -53,3 +53,4 @@
     * 1160 - X-Plosives
     * 10048 - Audiophobia
     * 10369 - Arctic Network
+    * 10600 - ACM Contest and Blackout
